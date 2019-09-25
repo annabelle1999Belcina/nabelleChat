@@ -1,0 +1,30 @@
+{
+  "name": "nabellechat",
+  "version": "1.0.0",
+  "description": "A simple code for chat application deployed online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annabelle1999Belcina/nabelleChat.git"
+  },
+  "keywords": [
+    "nabelle",
+    "chat"
+  ],
+  "author": "Annabelle Adoracion Belciña",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annabelle1999Belcina/nabelleChat/issues"
+  },
+  "homepage": "https://github.com/annabelle1999Belcina/nabelleChat#readme",
+  "engines": {
+    "node": "10.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
