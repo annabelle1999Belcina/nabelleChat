@@ -161,7 +161,7 @@ input {
 }
 
 .message {
-	background-color: var(--primary-blue);
+	background-color: var(--light-blue);
 	padding: 20px;
 	width: 80%;
 	margin-bottom: 20px;
@@ -172,7 +172,7 @@ input {
 }
 
 .message-right {
-	background: var(--light-blue);
+	background: var(--primary-blue);
 	color: var(--primary-text);
 	margin-left: 20%;
 	
